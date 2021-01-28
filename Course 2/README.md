@@ -12,7 +12,7 @@ The first two courses in this Specialization cover front-end frameworks: Bootstr
 
 
 ## Introduction
-This repo contains all my work for this specialization. All the code and quizzes [Full-Stack Web Development with React Specialization on Coursera](https://www.coursera.org/specializations/data-science-python).
+This repo contains all my work for this specialization. All the code and quizzes [Full-Stack Web Development with React Specialization on Coursera](https://www.coursera.org/specializations/full-stack-react).
 
 ## Programming Assignments
 
